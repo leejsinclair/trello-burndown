@@ -1,7 +1,8 @@
 Generate a burndown chart from Trello in Google Docs
 ===========================
 
-Script for Google Docs to generate the data for a burndown chart from a Trello board.
+Script for Google Docs to generate the data for a burndown chart from a Trello board. It was derived from the excellent article found at http://echobehind.wordpress.com/2012/06/28/create-your-own-burndown-chart-using-trello-api-and-google-apps-script/
+
 
 ## How to use
 
