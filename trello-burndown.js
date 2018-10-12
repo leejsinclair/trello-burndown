@@ -40,7 +40,7 @@ I have modified it and customised it for our set-up and needs
 // Some constants
 var sheets = SpreadsheetApp.getActiveSpreadsheet().getSheets(),
     activeSheet = "",
-    sprintInfoColumn = 12,
+    sprintInfoColumn = 10, /* "J" is column 10 */
     doneListName = 'Done',
     unplannedCardName = 'unplanned',
     notCommittedCardName = 'not-committed';
